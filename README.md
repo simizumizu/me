@@ -10,9 +10,7 @@ GitHub Actions で jekyll を使って、公開しています(^^)/
 まずは、 [RubyInstaller Downloads](https://rubyinstaller.org/downloads/) からRuby+Devkitバージョンをダウンロードして、インストールしてください。インストールはデフォルトのオプションを使用してください。  
 
 インストールウィザードの最後の段階で、 `ridk install` ステップを実行してください。  
-こういうターミナルが表示されるので、設定します  
-
-![ridk install](https://github.com/simizumizu/me/blob/master/ridk-install.png)  
+カラフルな「Ruby Installer2」というターミナルが表示されるので、設定します  
 
 ブログ用のリポジトリを作成してください  
 
