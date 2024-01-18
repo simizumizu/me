@@ -20,4 +20,4 @@ Microgame は、すでに完成済みのゲームファイルです
 ですが、 Microgame を選択するために、1つ前の 2021.3.34f1 をダウンロードしてください  
 1つ前の Unity Editor を選ぶと、 Microgame が無事に表示されます！  
 
-![新しいプロジェクト画面](/_posts/img/20240119-unity-microgame.jpg)  
+![新しいプロジェクト画面](https://raw.githubusercontent.com/simizumizu/simizumizu.github.io/main/_posts/img/20240119-unity-microgame.jpg)  
